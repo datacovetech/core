@@ -125,6 +125,6 @@ replace (
 	github.com/cosmos/ledger-cosmos-go => github.com/terra-money/ledger-terra-go v0.11.2
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
-	github.com/tendermint/tendermint => github.com/terra-money/tendermint v0.34.14-terra.2
+	github.com/tendermint/tendermint => github.com/datacovetech/tendermint v0.34.15-0.20220401094531-f7caf84359f2
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
